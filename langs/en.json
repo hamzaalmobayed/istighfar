@@ -1,0 +1,23 @@
+{
+  "mainTitle":"Main",
+  "notifyTitle": "Notifications",
+  "settingTitle": "Settings",
+  "set": "Edit Isteghfar Alarm",
+  "alarmTime": "Edit Alarm Time",
+  "alarmVoice": "Edit Alarm Voice",
+  "button": "save",
+  "version": "Version Number",
+  "lang": "Language",
+  "support": "Support App",
+  "appearance": "Appear On Mobile Screen",
+  "title1": "Basic",
+  "title2": "Another",
+  "policy": "Privacy Policy",
+  "choose": "Choose Language",
+  "cancel": "Cancel",
+  "never": "Never",
+  "minute": "Minute",
+  "minutes": "Minutes",
+  "hour": "Hour",
+  "hours": "Hours"
+}
